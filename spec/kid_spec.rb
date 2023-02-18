@@ -14,4 +14,4 @@ describe Kid do
     # the have_class_dance_methods matcher is defined in spec_helper.rb
     expect(Kid).to have_class_dance_methods
   end
-end
+end 
